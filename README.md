@@ -1,8 +1,8 @@
 # 🧠 Brain Tumor Classification Using CNN
 
-A Convolutional Neural Network (CNN) image classification project created as the **final project for the Machine Learning course at SLIPD Academy**, under the guidance of my mentor.
+A Convolutional Neural Network (CNN) image classification project created as the **final project for the Machine Learning course at SLIPD Academy**.
 
-The model classifies brain scan images into four categories:
+The model classifies MRI images into four dataset categories:
 
 - Glioma
 - Meningioma
