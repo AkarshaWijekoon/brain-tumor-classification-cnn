@@ -288,18 +288,17 @@ The model will load the images, preprocess them, train the CNN, evaluate the mod
 ```text
 brain-tumor-classification-cnn/
 │
-├── data/
-│   ├── training/
-│   └── testing/
-│
 ├── images/
 │   ├── accuracy.png
 │   ├── loss.png
 │   └── confusion_matrix.png
 │
-├── brain_tumor_classifier_final.h5
-├── main.py
-├── requirements.txt
+├── model/
+│   └── brain_tumor_classifier_final.h5
+│
+├── data.rar
+├── model.ipynb
+├── .gitattributes
 └── README.md
 ```
 
@@ -308,8 +307,6 @@ brain-tumor-classification-cnn/
 ## 🎓 About the Project
 
 This project was created as the **final project for the Machine Learning course at SLIPD Academy**.
-
-**Mentor:** [Your Mentor's Name]
 
 The project helped me gain practical experience with:
 
